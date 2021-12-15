@@ -11,3 +11,5 @@ The following repositories are used to demonstrate Sourcegraph functionality rel
 - https://github.com/sgtest/sample-vulnerable-log4j-direct-app
 - https://github.com/sgtest/sample-vulnerable-log4j-direct-lib
 - https://github.com/sgtest/sample-vulnerable-log4j-indirect-app
+
+Test repo for batch changes
